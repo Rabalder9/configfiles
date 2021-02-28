@@ -1,1 +1,0 @@
-print("jeg vet ikke hva jeg driver med")
